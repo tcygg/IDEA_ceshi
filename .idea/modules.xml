@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/IDEA.iml" filepath="$PROJECT_DIR$/.idea/IDEA.iml" />
       <module fileurl="file://$PROJECT_DIR$/java_lianxi/module01/module01.iml" filepath="$PROJECT_DIR$/java_lianxi/module01/module01.iml" />
       <module fileurl="file://$PROJECT_DIR$/java_lianxi/module02_javaee/module02_javaee.iml" filepath="$PROJECT_DIR$/java_lianxi/module02_javaee/module02_javaee.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shiyshi/shiyshi.iml" filepath="$PROJECT_DIR$/shiyshi/shiyshi.iml" />
       <module fileurl="file://$PROJECT_DIR$/tcygg/tcygg.iml" filepath="$PROJECT_DIR$/tcygg/tcygg.iml" />
     </modules>
   </component>
